@@ -1,0 +1,6 @@
+[submodule "serviceHeader"]
+	path = serviceHeader
+	url = git@github.com:OSoliman330/servicePrintH.git
+[submodule "serviceSource"]
+	path = serviceSource
+	url = git@github.com:OSoliman330/servicePrintC.git
